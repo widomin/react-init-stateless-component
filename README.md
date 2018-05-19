@@ -1,2 +1,2 @@
 # react-init-stateless-component
-Add a callback when your stateless component has mounted
+Add a callback method when your stateless component has mounted
